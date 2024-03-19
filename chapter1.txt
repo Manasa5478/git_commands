@@ -6,3 +6,8 @@ git commands
 4.In order to track changes  we use "git status" command
 5.in order to add it to staging area and track changes in it we use a command 
 called "git add" command.
+6.to commit the changes we use command called (git commit -m "complete chapter1")
+7. to see the commited details we use "git log" to log all he commited details like date time.
+
+
+
