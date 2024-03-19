@@ -1,0 +1,8 @@
+git commands 
+
+1.Create a directory and create a file.
+2.create git repository.
+3.to initialize git repository we write the command called "git init"
+4.In order to track changes  we use "git status" command
+5.in order to add it to staging area and track changes in it we use a command 
+called "git add" command.
