@@ -8,6 +8,6 @@ git commands
 called "git add" command.
 6.to commit the changes we use command called (git commit -m "complete chapter1")
 7. to see the commited details we use "git log" to log all he commited details like date time.
-
-
+8.  to open a file we use a command called "code filename.txt".
+9. to add multiple files at once we use a command called "git add ."
 

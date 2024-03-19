@@ -1,0 +1,2 @@
+1. to open a file we use a command called "code filename.txt".
+2.
